@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\програмирование\final work\bin\Debug\net6.0\final work.exe
+C:\Users\User\Desktop\програмирование\final work\bin\Debug\net6.0\final work.deps.json
+C:\Users\User\Desktop\програмирование\final work\bin\Debug\net6.0\final work.runtimeconfig.json
+C:\Users\User\Desktop\програмирование\final work\bin\Debug\net6.0\final work.dll
+C:\Users\User\Desktop\програмирование\final work\bin\Debug\net6.0\final work.pdb
+C:\Users\User\Desktop\програмирование\final work\obj\Debug\net6.0\final work.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\програмирование\final work\obj\Debug\net6.0\final work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\програмирование\final work\obj\Debug\net6.0\final work.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\програмирование\final work\obj\Debug\net6.0\final work.AssemblyInfo.cs
+C:\Users\User\Desktop\програмирование\final work\obj\Debug\net6.0\final work.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\програмирование\final work\obj\Debug\net6.0\final work.dll
+C:\Users\User\Desktop\програмирование\final work\obj\Debug\net6.0\refint\final work.dll
+C:\Users\User\Desktop\програмирование\final work\obj\Debug\net6.0\final work.pdb
+C:\Users\User\Desktop\програмирование\final work\obj\Debug\net6.0\final work.genruntimeconfig.cache
+C:\Users\User\Desktop\програмирование\final work\obj\Debug\net6.0\ref\final work.dll

@@ -34,21 +34,24 @@ void Printstr(string[] str)
     }
 }
 
-
+void RunProgramm(string[] str)
+{
+Console.WriteLine("Исходный массив:");
+Printstr(str);
+string[] restr = GetShortStr(str);
+Console.WriteLine($"Результат:");
+Printstr(restr );
+}
 
 string[] str1 = { "Hello", "2", "world", ":-)" };
 string[] str2 = { "1234", "1567", "-2", "computer science" };
 string[] str3 = { "Russia", "Denmark", "Kazan" };
-Console.WriteLine("Исходный массив:");
-Printstr(str1);
-Printstr(str2);
-Printstr(str3);
-string[] restr1 = GetShortStr(str1);
-string[] restr2 = GetShortStr(str2);
-string[] restr3 = GetShortStr(str3);
-Console.WriteLine($"Массив результирующий (строка меньше или равна 3 символам):");
-Printstr(restr1 );
-Printstr(restr2 );
-Printstr(restr3 );
+string[] str4 = { "Lukhovitsy", "November", "07" };
+
+RunProgramm(str1 );
+RunProgramm(str2 );
+RunProgramm(str3 );
+RunProgramm(str4 );
+
 
 Console.WriteLine();

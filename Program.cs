@@ -13,3 +13,23 @@ string [] GetShortStr (string [] str)
  Array.Resize(ref resultstr, k); // меняем размерность массива на новую 
 return resultstr;
 }
+
+
+
+void Printstr(string[] str)
+{
+    if (str.Length == 0) // Проверяем пустой ли массив
+    {
+        Console.WriteLine("Массив пуст");
+    }
+    else
+    {
+        Console.Write("[");
+        for (int i = 0; i < str.Length - 1; i++)
+        {
+            Console.Write($"\"{str[i]}\", ");
+        }
+        Console.Write($"\"{str[str.Length - 1]}\"");
+        Console.WriteLine("]");
+    }
+}
